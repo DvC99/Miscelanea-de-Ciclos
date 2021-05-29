@@ -26,8 +26,7 @@ En el archivo funciones_ciclos.py esta la línea base para implementar esta func
 
 La siguiente gráfica muestra el comportamiento de los descendientes y ascendientes de una persona, si asumimos que esta persona es la generación 0, la generación 1 serán dos personas (sus padres) la generación 2 serán 4 personas (sus abuelos) y así sucesivamente.
 
- ![alt text]
-(https://raw.githubusercontent.com/oscarhf/Materiales_de_apoyo/05af7b952d444565e3b46ee198331d379108b049/generacion.png)
+![Alt text](https://raw.githubusercontent.com/oscarhf/Materiales_de_apoyo/05af7b952d444565e3b46ee198331d379108b049/generacion.png)
 
 ## ¿Ya adivinas lo que debes hacer?
 Así es, necesitamos una función que dada una generación (mayor o igual a cero):
@@ -55,8 +54,7 @@ En el archivo funciones_ciclos.py esta la línea base para implementar esta func
 # Tableros 
 Vamos a realizar una función que imprima un tablero como el siguiente
 
-![alt text]
-(https://raw.githubusercontent.com/oscarhf/Materiales_de_apoyo/master/tablero.png)
+![alt text](https://raw.githubusercontent.com/oscarhf/Materiales_de_apoyo/master/tablero.png)
 
 ## ¿Que debo hacer?
 
